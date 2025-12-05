@@ -1,0 +1,26 @@
+git init: initiailizes. new git repository
+
+git status: shows status of changes
+
+git add: add files to the staging area
+
+git commit: saves changes
+
+git log: shows other commits that were made
+    git log --oneline: formatted 
+
+git diff <file>: shows unstaged changes
+
+git restore <file>: discards changes for a file (restores to previous commit)
+
+git restore --stage <file>: unadds file from staging area
+
+git branch: shows current branch
+
+git checkout -b <name>: makes new branch
+
+git checkout <branch>: changes branch
+
+git merge <branch>: adds changes to main
+
+git push: 
